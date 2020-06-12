@@ -10,6 +10,7 @@ My recommendations are as follows for Louise and her chosen play based on analys
 ### Challenge
 After analyzing the results of the kickstarter campaigns, my recommendations to Louis are as follows:
 - 76% of successful campaigns had a goal amount of $5,000 or less. Keep it in this range for higher success. 
+![](https://github.com/sarastjean/kickstarter-analysis/blob/master/Module%201%20Challenge_Line%20Graph%202_Sara%20St%20Jean.png)
 - Successful campaigns for the parent category Theater started in May and June. The worst months to start a campaign fall during November and December when supporters might have holidays on their mind instead. 
 - No play campaigns were canceled and of all plays, 66% of campaigns were successful regardless of goal range with only 34% failure rate. Favorable odds in general.
 - In terms of length of campaigns and success, more data will need to be calculated. By subtracting date ended from date created to also analyze how length contributes to success. This can be analyzed calculating the average length of success campaigns to see how long funding will take. Please be aware of outliers that will skew the data.
