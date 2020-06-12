@@ -3,6 +3,7 @@ My recommendations are as follows for Louise and her chosen play based on analys
 - In the US, more than 60% of kickstarter campaigns for plays were successful
 ![](https://github.com/sarastjean/kickstarter-analysis/blob/master/Play%20Campaigns%20Outcomes%20in%20the%20US.png)
 - The most successul plays launched in May and June while the least successful month was December
+![](https://github.com/sarastjean/kickstarter-analysis/blob/master/Subcategory%20Outcomes%20Based%20on%20Launch%20Date.png)
 - The Top 5 most successful plays based on percentage funded in the US is Shakespeare Orange County's HAMLET: Match This!, Terminator the Second, REALLY REALLY, Much Ado About Nothing & Howard's End 
   - Of these 5, my recommendation would be to do REALLY REALLY as the play received 300% of its goal, A low initial goal of only $1,000, had an average donation of $58.57 with only 49 backers and length of campaign was only 2x weeks
   - My second choice would be for Terminator the Second as the play received 300% of its goal, with the average goal of $3,000 close to the median and within the quartiles after running a statistical analysis. This play however did have over 240 backers and took a month to complete.
